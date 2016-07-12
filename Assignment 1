@@ -1,0 +1,7 @@
+/employees(GET) employees#index
+/employees/new(GET) employees#new
+/employees(POST) employees#create
+/employees/:id(GET) employees#show
+/employees/:id/edit(GET) employees#edit
+/employees/:id(PUT) employees#update
+/employees/:id(DELETE) employees#destro
